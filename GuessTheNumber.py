@@ -8,6 +8,24 @@
 #    Guess the Number              #
 #                                  #
 ####################################
+____________________________________
+
+Mini-project description — “Guess the number” game
+
+One of the simplest two-player games is “Guess the number”. The first player thinks of a secret 
+number in some known range while the second player attempts to guess the number. After each guess, 
+the first player answers either “Higher”, “Lower” or “Correct!” depending on whether the secret 
+number is higher, lower or equal to the guess. In this project, you will build a simple interactive 
+program in Python where the computer will take the role of the first player while you play as the 
+second player.
+
+You will interact with your program using an input field and several buttons. For this project, 
+we will ignore the canvas and print the computer's responses in the console. Building an initial 
+version of your project that prints information in the console is a development strategy that you 
+should use in later projects as well. Focusing on getting the logic of the program correct before 
+trying to make it display the information in some “nice” way on the canvas usually saves lots of 
+time since debugging logic errors in graphical output can be tricky.
+____________________________________
 
 Please note I am siteing the following sources for inspiration for my original Code
 This Course and it's great professors:
@@ -16,9 +34,9 @@ http://learnpythonthehardway.org/book/
 http://www.diveintopython.net/toc/index.html
 http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
 https://en.wikibooks.org/wiki/Python_Programming
+____________________________________
 
 For Ease of Creation I'm Useing the 7 Parts of Programming Structure (Modified to 8)
-
 0. Import Python Modules
 1. Globals (states)
 2. Helper Functions
@@ -29,7 +47,9 @@ For Ease of Creation I'm Useing the 7 Parts of Programming Structure (Modified t
 7. start frame and timers
 
 Code Start
+____________________________________
 '''
+
 
 # input will come from buttons and an input field
 # all output for the game will be printed in the console

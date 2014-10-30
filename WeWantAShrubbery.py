@@ -8,6 +8,7 @@
 #    We Want A Shrebery!           #
 #                                  #
 ####################################
+____________________________________
 
 Please note I am siteing the following sources for inspiration for my original Code
 This Course and it's great professors:
@@ -16,9 +17,9 @@ http://learnpythonthehardway.org/book/
 http://www.diveintopython.net/toc/index.html
 http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
 https://en.wikibooks.org/wiki/Python_Programming
+____________________________________
 
 For Ease of Creation I'm Useing the 7 Parts of Programming Structure (Modified to 8)
-
 0. Import Python Modules
 1. Globals (states)
 2. Helper Functions
@@ -29,6 +30,7 @@ For Ease of Creation I'm Useing the 7 Parts of Programming Structure (Modified t
 7. start frame and timers
 
 Code Start
+____________________________________
 '''
 
 print 'We want... a shrubbery!'

@@ -8,6 +8,13 @@
 #    Stopwatch Game                #
 #                                  #
 ####################################
+____________________________________
+Mini-project description - "Stopwatch: The Game"
+
+Our mini-project for this week will focus on combining text drawing in the canvas with timers 
+to build a simple digital stopwatch that keeps track of the time in tenths of a second. The 
+stopwatch should contain "Start", "Stop" and "Reset" buttons. 
+____________________________________
 
 Please note I am siteing the following sources for inspiration for my original Code
 This Course and it's great professors:
@@ -16,9 +23,9 @@ http://learnpythonthehardway.org/book/
 http://www.diveintopython.net/toc/index.html
 http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
 https://en.wikibooks.org/wiki/Python_Programming
+____________________________________
 
 For Ease of Creation I'm Useing the 7 Parts of Programming Structure (Modified to 8)
-
 0. Import Python Modules
 1. Globals (states)
 2. Helper Functions
@@ -29,6 +36,7 @@ For Ease of Creation I'm Useing the 7 Parts of Programming Structure (Modified t
 7. start frame and timers
 
 Code Start
+____________________________________
 '''
 
 # template for "Stopwatch: The Game"

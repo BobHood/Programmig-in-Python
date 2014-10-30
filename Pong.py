@@ -9,6 +9,16 @@
 #                                  #
 ####################################
 
+____________________________________
+
+Mini-project #4 - "Pong"
+In this project, we will build a version of Pong, one of the first arcade video games (1972). 
+While Pong is not particularly exciting compared to today's video games, Pong is relatively 
+simple to build and provides a nice opportunity to work on the skills that you will need to 
+build a game like Asteroids. As usual, we have provided a program template that can be used 
+to guide your development of Pong.
+____________________________________
+
 Please note I am siteing the following sources for inspiration for my original Code
 This Course and it's great professors:
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm
@@ -16,9 +26,9 @@ http://learnpythonthehardway.org/book/
 http://www.diveintopython.net/toc/index.html
 http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
 https://en.wikibooks.org/wiki/Python_Programming
+____________________________________
 
 For Ease of Creation I'm Useing the 7 Parts of Programming Structure (Modified to 8)
-
 0. Import Python Modules
 1. Globals (states)
 2. Helper Functions
@@ -29,6 +39,7 @@ For Ease of Creation I'm Useing the 7 Parts of Programming Structure (Modified t
 7. start frame and timers
 
 Code Start
+____________________________________
 '''
 
 # 0. Import Python Modules
